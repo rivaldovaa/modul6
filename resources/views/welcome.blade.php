@@ -15,7 +15,7 @@ initial-scale=1.0">
         <h1 class="mb-4">Belajar Controller & View pada Laravel</h1>
         {{-- Contoh cara mereferensikan gambar di dalam file blade dengan
 menggunakan pendekatan Vite --}}
-<img class="rounded mx-auto d-block" style="width: 200px" src="{{ Vite::asset('resources/images/hasan.jpeg') }}" alt="image">
+<img class="rounded mx-auto d-block" style="width: 200px" src="{{ Vite::asset('resources/images/hss.jpeg') }}" alt="image">
         <div class="col-md-2 offset-md-5 mt-4">
             <div class="d-grid gap-2">
                 <a class="btn btn-dark" href="{{url("/home")}}">Home</a>
